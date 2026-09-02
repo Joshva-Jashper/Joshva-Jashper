@@ -1,70 +1,110 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Joshva+%F0%9F%91%8B;QA+Automation+%7C+SDET+Engineer;Playwright+%C2%B7+pytest+%C2%B7+Python+%C2%B7+C%2B%2B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA3F2&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Joshva+%F0%9F%91%8B;I+break+software+for+a+living+%F0%9F%94%A8;QA+Automation+%7C+SDET+Engineer;Playwright+%C2%B7+pytest+%C2%B7+Python+%C2%B7+C%2B%2B" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/-QA%20Automation-2EA3F2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-SDET-2EA3F2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-QA%20AUTOMATION-2EA3F2?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/-SDET-111111?style=for-the-badge&logo=pytest&logoColor=white" />
 <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" />
 
 </div>
 
----
+<br>
 
-### 🧭 About Me
+<!-- ================= ABOUT ME ================= -->
 
-- 🎓 Third-year **B.E. Computer Science & Engineering** student at Sri Shakthi Institute of Engineering and Technology, Coimbatore — Class of **2028**, CGPA **8.21**
-- 🧪 Focused on **QA Automation / SDET** — building test frameworks that unify UI, API, and reporting into one pipeline
-- 🎯 Actively targeting internships/roles at **Zoho** and **Freshworks**
-- 🛰️ Currently building **TestSentry** — an AI-assisted pytest plugin for test suite health monitoring
-- 📚 Also explore systems programming, backend engineering, and GPU/CUDA computing on the side
-- 💬 Ask me about Playwright, pytest architecture, or C++ performance work
+## 🐞 About Me
 
----
+```yaml
+role: QA Automation Engineer (in training) / SDET
+mindset: "If it can break, I'll find out how — and automate the proof"
+currently_building: Hybrid UI + API test framework (Playwright · pytest · Allure)
+currently_exploring: AI-assisted test observability, JMeter, Appium
+target_companies: [Zoho, Freshworks]
+fun_fact: "Also writes C++ thread pools for fun — 10-14x faster than sequential"
+```
 
-### 🛠️ Tech Stack
+- 🎓 Third-year **B.E. Computer Science & Engineering**, Sri Shakthi Institute of Engineering and Technology, Coimbatore — Class of **2028**
+- 🧪 I don't just test features — I design frameworks that make testing **repeatable, traceable, and CI-ready**
+- 🧵 Obsessed with the boundary between **UI automation, API automation, and performance** — one pipeline, three layers
+- 🛰️ Building **TestSentry** — an AI-assisted pytest plugin that triages *why* tests fail, not just *that* they failed
+- 🌱 Learning roadmap: `Playwright` → `pytest` → `Postman` → `JMeter` → `Appium` → `AI/LLM test evaluation`
+- 💬 Ask me about **Page Object Model design**, **flaky test root-causing**, or **API contract testing**
 
-**Languages**
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- ================= QA TOOLBELT ================= -->
 
-**Test Automation & QA**
+## 🧰 My QA Toolbelt
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure%20Report-FF6600?style=for-the-badge)
+<table align="center">
+<tr>
+<th>Layer</th>
+<th>Tools</th>
+</tr>
+<tr>
+<td><b>🖥️ UI Automation</b></td>
+<td>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>🔌 API Automation</b></td>
+<td>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20Assured-informational?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td><b>📊 Reporting</b></td>
+<td>
+<img src="https://img.shields.io/badge/Allure%20Report-FF6600?style=flat-square" />
+<img src="https://img.shields.io/badge/pytest--html-0A9EDC?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td><b>⚙️ CI / Infra</b></td>
+<td>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</td>
+</tr>
+<tr>
+<td><b>🧑‍💻 Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</td>
+</tr>
+</table>
 
-**Tools & Platforms**
+<br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<!-- ================= PROJECTS ================= -->
 
----
-
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧪 [Hybrid Test Framework](https://github.com/joshvajaspher6-dotcom/hybrid-test-framework)**
+### 🧪 [Hybrid Test Framework](https://github.com/Joshva-Jashper/hybrid-test-framework)
 
-Combined UI + API test automation suite using Playwright, pytest, and Allure — Page Object Model, session-scoped auth, and CI via GitHub Actions.
+Unified **UI + API** automation suite — Page Object Model, session-scoped auth, Allure reporting, and a full CI pipeline via GitHub Actions.
 
 `Playwright` `pytest` `Allure` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-**🛰️ [TestSentry v2.1](https://github.com/joshvajaspher6-dotcom/Real-time-Health-Sentinel)**
+### 🛰️ [TestSentry v2.1](https://github.com/Joshva-Jashper/Real-time-Health-Sentinel)
 
-An intelligent pytest plugin for test suite health monitoring — AI-powered failure triage, DuckDB storage, and git-based ownership mapping.
+AI-powered pytest plugin for **test suite health monitoring** — failure triage, DuckDB storage, and git-based ownership mapping.
 
 `Python` `DuckDB` `LLM` `Observability`
 
@@ -73,18 +113,18 @@ An intelligent pytest plugin for test suite health monitoring — AI-powered fai
 <tr>
 <td width="50%" valign="top">
 
-**🦆 [USB Rubber Ducky Intrusion Detection](https://github.com/joshvajaspher6-dotcom/smart-USB-Intruction-detection-System)**
+### 🦆 [USB Rubber Ducky Intrusion Detection](https://github.com/Joshva-Jashper/smart-USB-Intruction-detection-System)
 
-A Flask + scikit-learn system that detects USB Rubber Ducky-style intrusion attacks in real time.
+Flask + scikit-learn system detecting USB Rubber Ducky-style intrusion attacks in real time.
 
 `Python` `Flask` `scikit-learn`
 
 </td>
 <td width="50%" valign="top">
 
-**⚡ Cortex Thread Pool**
+### ⚡ Cortex Thread Pool
 
-A high-performance C++17 thread pool implementation delivering a 10–14x speed improvement over sequential execution.
+High-performance **C++17 thread pool** delivering a 10–14x speed improvement over sequential execution.
 
 `C++17` `Concurrency` `Performance`
 
@@ -92,41 +132,47 @@ A high-performance C++17 thread pool implementation delivering a 10–14x speed 
 </tr>
 </table>
 
----
+<br>
 
-### 🏆 Achievements
+<!-- ================= ACHIEVEMENTS ================= -->
+
+## 🏆 Achievements
 
 - 🥇 **1st Place** — Python Coding Event, Sri Shakthi Institute of Engineering and Technology
 - 🥉 **3rd Place** — Buildathon, Sri Ramakrishna Engineering College
-- 📜 **Certified** — Learn Playwright with Python (Web & API Automation), Udemy — 60.5 hours
 
----
+<br>
 
-### 📊 GitHub Stats
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joshvajaspher6-dotcom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshvajaspher6-dotcom&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joshva-Jashper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshva-Jashper&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshvajaspher6-dotcom&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshva-Jashper&theme=tokyonight&hide_border=true" />
 </div>
 
----
+<br>
 
-### 🌐 Connect With Me
+<!-- ================= CONNECT ================= -->
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/joshva-jashper-w-37a44a331"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:joshvajaspher6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Joshva_Jashper/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://github.com/Joshva-Jashper"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joshvajaspher6-dotcom&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Joshva-Jashper&style=for-the-badge&color=blue" alt="Profile views" />
 </div>
