@@ -47,7 +47,6 @@ fun_fact: "Also writes C++ thread pools for fun — 10-14x faster than sequentia
 <td><b>🖥️ UI Automation</b></td>
 <td>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -55,7 +54,8 @@ fun_fact: "Also writes C++ thread pools for fun — 10-14x faster than sequentia
 <td>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20Assured-informational?style=flat-square" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+
 </td>
 </tr>
 <tr>
