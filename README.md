@@ -1,178 +1,115 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA3F2&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Joshva+%F0%9F%91%8B;I+break+software+for+a+living+%F0%9F%94%A8;QA+Automation+%7C+SDET+Engineer;Playwright+%C2%B7+pytest+%C2%B7+Python+%C2%B7+C%2B%2B" alt="Typing SVG" />
+# <code>Joshva Jashper</code>
 
-<br>
+### QA Automation Engineer · SDET in Training · Python Developer
 
-<img src="https://img.shields.io/badge/-QA%20AUTOMATION-2EA3F2?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-<img src="https://img.shields.io/badge/-SDET-111111?style=for-the-badge&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=2EA3F2&center=true&vCenter=true&width=760&lines=%24+whoami;Joshva+Jashper+%7C+QA+Automation+Engineer;%24+./find_bugs+--before-production;UI+%2B+API+%2B+Performance+Testing;%24+build+--reliable+--repeatable+--CI-ready" alt="Animated command prompt introduction" />
+</a>
+
+<p>
+  <a href="https://github.com/Joshva-Jashper"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/joshva-jashper-w-37a44a331"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:joshvajaspher6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/Joshva_Jashper/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
+
+<img src="https://img.shields.io/badge/OPEN%20TO-QA%20AUTOMATION%20%7C%20SDET%20INTERNSHIPS-2EA3F2?style=for-the-badge" alt="Open to QA Automation and SDET internships" />
 
 </div>
 
-<br>
+---
 
-<!-- ================= ABOUT ME ================= -->
+## `> about_me.exe`
 
-## 🐞 About Me
+I am a **third-year B.E. Computer Science and Engineering student** at Sri Shakthi Institute of Engineering and Technology, Coimbatore, graduating in **2028**. I build reliable automation that makes software quality **repeatable, traceable, and CI-ready**.
+
+My focus is on connecting **UI automation, API validation, and performance testing** into practical test systems. I enjoy investigating flaky tests, designing maintainable Page Object Models, and turning failures into actionable engineering insights.
 
 ```yaml
-role: QA Automation Engineer (in training) / SDET
-mindset: "If it can break, I'll find out how — and automate the proof"
-currently_building: Hybrid UI + API test framework (Playwright · pytest · Allure)
-currently_exploring: AI-assisted test observability, JMeter, Appium
-target_companies: [Zoho, Freshworks]
-fun_fact: "Also writes C++ thread pools for fun — 10-14x faster than sequential"
+focus:
+  - UI and API test automation
+  - Test framework design
+  - CI/CD quality gates
+  - Failure triage and observability
+currently_building: TestSentry — an AI-assisted pytest plugin
+currently_learning: JMeter · Appium · AI/LLM test evaluation
+seeking: QA Automation / SDET internship opportunities
 ```
 
-- 🎓 Third-year **B.E. Computer Science & Engineering**, Sri Shakthi Institute of Engineering and Technology, Coimbatore — Class of **2028**
-- 🧪 I don't just test features — I design frameworks that make testing **repeatable, traceable, and CI-ready**
-- 🧵 Obsessed with the boundary between **UI automation, API automation, and performance** — one pipeline, three layers
-- 🛰️ Building **TestSentry** — an AI-assisted pytest plugin that triages *why* tests fail, not just *that* they failed
-- 🌱 Learning roadmap: `Playwright` → `pytest` → `Postman` → `JMeter` → `Appium` → `AI/LLM test evaluation`
-- 💬 Ask me about **Page Object Model design**, **flaky test root-causing**, or **API contract testing**
+## `> qa_toolbelt --list`
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Allure-FF6600?style=flat-square&logo=allure&logoColor=white" alt="Allure" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
-<!-- ================= QA TOOLBELT ================= -->
+| Testing layer | What I work with |
+|:--|:--|
+| **UI automation** | Playwright, Page Object Model, reusable fixtures |
+| **API automation** | pytest, Postman, contract and integration checks |
+| **Reporting** | Allure Report, pytest-html, actionable failure evidence |
+| **CI and infrastructure** | GitHub Actions, Docker, Linux |
+| **Development** | Python, C++17, SQL |
 
-## 🧰 My QA Toolbelt
+## `> projects --featured`
 
-<table align="center">
-<tr>
-<th>Layer</th>
-<th>Tools</th>
-</tr>
-<tr>
-<td><b>🖥️ UI Automation</b></td>
-<td>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>🔌 API Automation</b></td>
-<td>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+### [Hybrid Test Framework](https://github.com/Joshva-Jashper/hybrid-test-framework)
+A unified **UI and API automation suite** built with Playwright and pytest. Includes Page Object Model structure, session-scoped authentication, Allure reporting, and GitHub Actions CI execution.
 
-</td>
-</tr>
-<tr>
-<td><b>📊 Reporting</b></td>
-<td>
-<img src="https://img.shields.io/badge/Allure%20Report-FF6600?style=flat-square" />
-<img src="https://img.shields.io/badge/pytest--html-0A9EDC?style=flat-square" />
-</td>
-</tr>
-<tr>
-<td><b>⚙️ CI / Infra</b></td>
-<td>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</td>
-</tr>
-<tr>
-<td><b>🧑‍💻 Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</td>
-</tr>
-</table>
+`Playwright` `pytest` `Allure` `Docker` `GitHub Actions`
 
-<br>
-
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 [Hybrid Test Framework](https://github.com/Joshva-Jashper/hybrid-test-framework)
-
-Unified **UI + API** automation suite — Page Object Model, session-scoped auth, Allure reporting, and a full CI pipeline via GitHub Actions.
-
-`Playwright` `pytest` `Allure` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛰️ [TestSentry v2.1](https://github.com/Joshva-Jashper/Real-time-Health-Sentinel)
-
-AI-powered pytest plugin for **test suite health monitoring** — failure triage, DuckDB storage, and git-based ownership mapping.
+### [TestSentry v2.1](https://github.com/Joshva-Jashper/Real-time-Health-Sentinel)
+An AI-assisted pytest plugin for **test-suite health monitoring**. Captures failure context, stores test data in DuckDB, and maps failures to likely code ownership for faster triage.
 
 `Python` `DuckDB` `LLM` `Observability`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### [USB Rubber Ducky Intrusion Detection](https://github.com/Joshva-Jashper/smart-USB-Intruction-detection-System)
+A Flask and scikit-learn application that detects USB Rubber Ducky-style intrusion patterns in real time, combining web application development with security-focused machine learning.
 
-### 🦆 [USB Rubber Ducky Intrusion Detection](https://github.com/Joshva-Jashper/smart-USB-Intruction-detection-System)
+`Python` `Flask` `scikit-learn` `Security`
 
-Flask + scikit-learn system detecting USB Rubber Ducky-style intrusion attacks in real time.
-
-`Python` `Flask` `scikit-learn`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Cortex Thread Pool
-
-High-performance **C++17 thread pool** delivering a 10–14x speed improvement over sequential execution.
+### Cortex Thread Pool
+A C++17 thread-pool implementation focused on concurrent task execution, achieving a reported **10–14× speed improvement** over sequential execution in benchmark scenarios.
 
 `C++17` `Concurrency` `Performance`
 
-</td>
-</tr>
-</table>
+## `> achievements --show`
 
-<br>
+- **1st place** — Python Coding Event, Sri Shakthi Institute of Engineering and Technology
+- **3rd place** — Buildathon, Sri Ramakrishna Engineering College
 
-<!-- ================= ACHIEVEMENTS ================= -->
-
-## 🏆 Achievements
-
-- 🥇 **1st Place** — Python Coding Event, Sri Shakthi Institute of Engineering and Technology
-- 🥉 **3rd Place** — Buildathon, Sri Ramakrishna Engineering College
-
-<br>
-
-<!-- ================= STATS ================= -->
-
-## 📊 GitHub Stats
+## `> github_stats --visualize`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joshva-Jashper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshva-Jashper&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joshva-Jashper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Joshva's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshva-Jashper&layout=compact&theme=tokyonight&hide_border=true" alt="Joshva's top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshva-Jashper&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshva-Jashper&theme=tokyonight&hide_border=true" alt="Joshva's GitHub contribution streak" />
 </div>
 
-<br>
+## `> contact --open`
 
-<!-- ================= CONNECT ================= -->
-
-## 🌐 Connect With Me
+I am interested in **QA Automation, SDET, software testing, and developer productivity** opportunities. If you are building reliable products and need someone who enjoys finding the edge cases, let’s connect.
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/joshva-jashper-w-37a44a331"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:joshvajaspher6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Joshva_Jashper/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://github.com/Joshva-Jashper"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
+  <a href="mailto:joshvajaspher6@gmail.com">Email me</a> ·
+  <a href="https://www.linkedin.com/in/joshva-jashper-w-37a44a331">LinkedIn</a> ·
+  <a href="https://github.com/Joshva-Jashper">GitHub</a> ·
+  <a href="https://leetcode.com/u/Joshva_Jashper/">LeetCode</a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Joshva-Jashper&style=for-the-badge&color=2EA3F2" alt="Profile views" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joshva-Jashper&style=for-the-badge&color=blue" alt="Profile views" />
-</div>
+<!-- Recruiter keywords: QA Automation, SDET, Software Testing, Test Automation, Playwright, pytest, Python, API Testing, UI Testing, CI/CD, GitHub Actions, Docker, Allure, Page Object Model -->
