@@ -21,7 +21,7 @@
 
 ---
 
-## `> about_me.exe`
+## About Me
 
 I am a **third-year B.E. Computer Science and Engineering student** at Sri Shakthi Institute of Engineering and Technology, Coimbatore, graduating in **2028**. I build reliable automation that makes software quality **repeatable, traceable, and CI-ready**.
 
@@ -38,7 +38,7 @@ currently_learning: JMeter · Appium · AI/LLM test evaluation
 seeking: QA Automation / SDET internship opportunities
 ```
 
-## `> qa_toolbelt --list`
+## QA Toolbelt
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -61,7 +61,7 @@ seeking: QA Automation / SDET internship opportunities
 | **CI and infrastructure** | GitHub Actions, Docker, Linux |
 | **Development** | Python, C++17, SQL |
 
-## `> projects --featured`
+## Featured Projects
 
 ### [Hybrid Test Framework](https://github.com/Joshva-Jashper/hybrid-test-framework)
 A unified **UI and API automation suite** built with Playwright and pytest. Includes Page Object Model structure, session-scoped authentication, Allure reporting, and GitHub Actions CI execution.
@@ -83,12 +83,12 @@ A C++17 thread-pool implementation focused on concurrent task execution, achievi
 
 `C++17` `Concurrency` `Performance`
 
-## `> achievements --show`
+## Achievements
 
 - **1st place** — Python Coding Event, Sri Shakthi Institute of Engineering and Technology
 - **3rd place** — Buildathon, Sri Ramakrishna Engineering College
 
-## `> github_stats --visualize`
+## GitHub Activity
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joshva-Jashper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Joshva's GitHub statistics" />
@@ -99,7 +99,7 @@ A C++17 thread-pool implementation focused on concurrent task execution, achievi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshva-Jashper&theme=tokyonight&hide_border=true" alt="Joshva's GitHub contribution streak" />
 </div>
 
-## `> contact --open`
+## Connect With Me
 
 I am interested in **QA Automation, SDET, software testing, and developer productivity** opportunities. If you are building reliable products and need someone who enjoys finding the edge cases, let’s connect.
 
