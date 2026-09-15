@@ -91,13 +91,12 @@ A C++17 thread-pool implementation focused on concurrent task execution, achievi
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joshva-Jashper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Joshva's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshva-Jashper&layout=compact&theme=tokyonight&hide_border=true" alt="Joshva's top languages" />
+  <a href="https://github.com/Joshva-Jashper?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20projects-2EA3F2?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
+  <a href="https://github.com/Joshva-Jashper?tab=followers"><img src="https://img.shields.io/github/followers/Joshva-Jashper?style=for-the-badge&label=Followers&color=111111" alt="GitHub followers" /></a>
+  <a href="https://github.com/Joshva-Jashper"><img src="https://komarev.com/ghpvc/?username=Joshva-Jashper&style=for-the-badge&color=2EA3F2" alt="Profile views" /></a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshva-Jashper&theme=tokyonight&hide_border=true" alt="Joshva's GitHub contribution streak" />
-</div>
+My contribution graph below shows my ongoing activity. For the latest project history, test automation work, and source code, visit my [repositories](https://github.com/Joshva-Jashper?tab=repositories).
 
 ## Connect With Me
 
