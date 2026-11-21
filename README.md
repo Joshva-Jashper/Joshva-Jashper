@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/qa-automation-banner.svg" alt="Animated profile banner: Joshva Jashper W, aspiring QA automation engineer" width="100%" />
+<img src="assets/qa-automation-banner.svg" alt="Profile banner: Joshva Jashper W, aspiring QA automation engineer" width="100%" />
 
 # Joshva Jashper W
 
@@ -18,6 +18,9 @@
 </p>
 
 <img src="https://img.shields.io/badge/OPEN%20TO-QA%20AUTOMATION%20%7C%20SDET%20INTERNSHIPS-2EA3F2?style=for-the-badge" alt="Open to QA Automation and SDET internships" />
+
+<p><img src="assets/robot-automation.gif" width="180" alt="Animated friendly robot representing test automation" /></p>
+<sub>Robot animation by <a href="https://lottiefiles.com/free-animation/robot-automation-gif-lBqN7B0C6s">DiamondLion on LottieFiles</a> (Lottie Simple License).</sub>
 
 </div>
 
@@ -88,12 +91,12 @@ Explore my concurrency work and coding-practice repository.
 
 ### Contribution graph animation
 
-The snake animation below is generated from my GitHub contribution graph by the included GitHub Actions workflow. It refreshes daily and after changes to this profile repository.
+The animated snake GIF below is generated from my contribution graph by the included GitHub Actions workflow. It refreshes daily and after changes to this profile repository.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joshva-Jashper/Joshva-Jashper/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joshva-Jashper/Joshva-Jashper/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated snake traversing my GitHub contribution graph" src="https://raw.githubusercontent.com/Joshva-Jashper/Joshva-Jashper/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joshva-Jashper/Joshva-Jashper/output/github-contribution-grid-snake-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joshva-Jashper/Joshva-Jashper/output/github-contribution-grid-snake.gif" />
+  <img alt="Animated snake traversing my GitHub contribution graph" src="https://raw.githubusercontent.com/Joshva-Jashper/Joshva-Jashper/output/github-contribution-grid-snake.gif" width="100%" />
 </picture>
 
 > The snake image appears after the first successful run of the included workflow. GitHub Actions needs permission to write the generated `output` branch.
