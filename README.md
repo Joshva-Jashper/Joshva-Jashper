@@ -1,11 +1,13 @@
 <div align="center">
 
-# <code>Joshva Jashper</code>
+<img src="assets/qa-automation-banner.svg" alt="Animated profile banner: Joshva Jashper W, aspiring QA automation engineer" width="100%" />
 
-### QA Automation Engineer · SDET in Training · Python Developer
+# Joshva Jashper W
+
+### Aspiring QA Automation Engineer · B.E. Computer Science & Engineering student
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=2EA3F2&center=true&vCenter=true&width=760&lines=%24+whoami;Joshva+Jashper+%7C+QA+Automation+Engineer;%24+./find_bugs+--before-production;UI+%2B+API+%2B+Performance+Testing;%24+build+--reliable+--repeatable+--CI-ready" alt="Animated command prompt introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=45D6C5&center=true&vCenter=true&width=820&lines=%24+whoami;Joshva+Jashper+%7C+QA+Automation;UI+%2B+API+%2B+reliable+test+systems;Find+the+edge+case+before+production;%24+ship+--tested+--repeatable" alt="Animated typing introduction" />
 </a>
 
 <p>
@@ -23,20 +25,37 @@
 
 ## About Me
 
-I am a **third-year B.E. Computer Science and Engineering student** at Sri Shakthi Institute of Engineering and Technology, Coimbatore, graduating in **2028**. I build reliable automation that makes software quality **repeatable, traceable, and CI-ready**.
+I’m a third-year **B.E. Computer Science and Engineering student** at Sri Shakthi Institute of Engineering and Technology, Coimbatore, graduating in **2028**. I enjoy finding the ways software can fail for real users and building practical automation to catch those issues earlier.
 
-My focus is on connecting **UI automation, API validation, and performance testing** into practical test systems. I enjoy investigating flaky tests, designing maintainable Page Object Models, and turning failures into actionable engineering insights.
+My current focus is **Python, Playwright, pytest, UI and REST API testing, test observability, and root-cause analysis**. I’m learning CI/CD practices and preparing for the ISTQB Foundation Level certification.
 
-```yaml
-focus:
-  - UI and API test automation
-  - Test framework design
-  - CI/CD quality gates
-  - Failure triage and observability
-currently_building: TestSentry — an AI-assisted pytest plugin
-currently_learning: JMeter · Appium · AI/LLM test evaluation
-seeking: QA Automation / SDET internship opportunities
-```
+- **Education:** B.E. CSE · CGPA 8.45 · expected 2028
+- **Testing:** functional, regression, smoke, sanity, end-to-end, boundary and negative testing
+- **Automation:** Playwright, pytest, Selenium, Page Object Model, data-driven testing
+- **API & reporting:** Postman, REST, JSON Schema, Allure
+
+## Featured Projects
+
+### [Payment Application UI & API Test Automation](https://github.com/Joshva-Jashper/banking-ui-api-test-framework)
+Playwright + pytest automation for a banking/payment application. Includes **68 UI and API tests**, reusable page objects and API clients, JSON-driven test data, schema validation, and end-to-end flows.
+
+`Python` `Playwright` `pytest` `Faker` `JSON Schema` `Allure`
+
+### [TestSentry v2.1 — Test Observability & Failure Analysis](https://github.com/Joshva-Jashper/Real-time-Health-Sentinel)
+A local-first pytest plugin and dashboard that tracks regression states, identifies flaky-test evidence, captures sanitized browser artifacts, and helps triage failures. Verified with a **79-test suite** and GitHub Actions CI.
+
+`Python` `pytest` `DuckDB` `FastAPI` `Playwright` `GitHub Actions`
+
+### [Hybrid Test Automation Framework](https://github.com/Joshva-Jashper/hybrid-test-framework)
+A Playwright + pytest framework combining UI and API checks, data-driven testing, reusable page objects, Allure reports, and CI support. Includes **42 automated cases** and a manual test suite with traceability.
+
+`Python` `Playwright` `pytest` `Allure` `API Testing`
+
+### [USB Intrusion Detection System](https://github.com/Joshva-Jashper/smart-USB-Intruction-detection-System_)
+A security-focused project exploring detection of USB Rubber Ducky / BadUSB-style keystroke behavior.
+
+### [C++ Thread Pool](https://github.com/Joshva-Jashper/cpp-thread-pool) · [Problem Solving](https://github.com/Joshva-Jashper/Problem-Solving)
+Explore my concurrency work and coding-practice repository.
 
 ## QA Toolbelt
 
@@ -45,70 +64,49 @@ seeking: QA Automation / SDET internship opportunities
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Allure-FF6600?style=flat-square&logo=allure&logoColor=white" alt="Allure" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL / MySQL" />
 </p>
-
-| Testing layer | What I work with |
-|:--|:--|
-| **UI automation** | Playwright, Page Object Model, reusable fixtures |
-| **API automation** | pytest, Postman, contract and integration checks |
-| **Reporting** | Allure Report, pytest-html, actionable failure evidence |
-| **CI and infrastructure** | GitHub Actions, Docker, Linux |
-| **Development** | Python, C++17, SQL |
-
-## Featured Projects
-
-### [Hybrid Test Framework](https://github.com/Joshva-Jashper/hybrid-test-framework)
-A unified **UI and API automation suite** built with Playwright and pytest. Includes Page Object Model structure, session-scoped authentication, Allure reporting, and GitHub Actions CI execution.
-
-`Playwright` `pytest` `Allure` `Docker` `GitHub Actions`
-
-### [TestSentry v2.1](https://github.com/Joshva-Jashper/Real-time-Health-Sentinel)
-An AI-assisted pytest plugin for **test-suite health monitoring**. Captures failure context, stores test data in DuckDB, and maps failures to likely code ownership for faster triage.
-
-`Python` `DuckDB` `LLM` `Observability`
-
-### [USB Rubber Ducky Intrusion Detection](https://github.com/Joshva-Jashper/smart-USB-Intruction-detection-System)
-A Flask and scikit-learn application that detects USB Rubber Ducky-style intrusion patterns in real time, combining web application development with security-focused machine learning.
-
-`Python` `Flask` `scikit-learn` `Security`
-
-### Cortex Thread Pool
-A C++17 thread-pool implementation focused on concurrent task execution, achieving a reported **10–14× speed improvement** over sequential execution in benchmark scenarios.
-
-`C++17` `Concurrency` `Performance`
 
 ## Achievements
 
 - **1st place** — Python Coding Event, Sri Shakthi Institute of Engineering and Technology
 - **3rd place** — Buildathon, Sri Ramakrishna Engineering College
+- **Learn Playwright with Python (Web & API Automation)** — Udemy, 60.5 hours
 
 ## GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/Joshva-Jashper?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20projects-2EA3F2?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
-  <a href="https://github.com/Joshva-Jashper?tab=followers"><img src="https://img.shields.io/github/followers/Joshva-Jashper?style=for-the-badge&label=Followers&color=111111" alt="GitHub followers" /></a>
-  <a href="https://github.com/Joshva-Jashper"><img src="https://komarev.com/ghpvc/?username=Joshva-Jashper&style=for-the-badge&color=2EA3F2" alt="Profile views" /></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joshva-Jashper&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshva-Jashper&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Joshva-Jashper&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-My contribution graph below shows my ongoing activity. For the latest project history, test automation work, and source code, visit my [repositories](https://github.com/Joshva-Jashper?tab=repositories).
+### Contribution graph animation
 
-## Connect With Me
+The snake animation below is generated from my GitHub contribution graph by the included GitHub Actions workflow. It refreshes daily and after changes to this profile repository.
 
-I am interested in **QA Automation, SDET, software testing, and developer productivity** opportunities. If you are building reliable products and need someone who enjoys finding the edge cases, let’s connect.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joshva-Jashper/Joshva-Jashper/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joshva-Jashper/Joshva-Jashper/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake traversing my GitHub contribution graph" src="https://raw.githubusercontent.com/Joshva-Jashper/Joshva-Jashper/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+> The snake image appears after the first successful run of the included workflow. GitHub Actions needs permission to write the generated `output` branch.
+
+## Connect
+
+I’m interested in **QA Automation, software testing, SDET, and developer productivity** opportunities. If you’re building reliable products and need someone who enjoys finding edge cases, let’s connect.
 
 <div align="center">
-  <a href="mailto:joshvajaspher6@gmail.com">Email me</a> ·
+  <a href="mailto:joshvajaspher6@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/joshva-jashper-w-37a44a331">LinkedIn</a> ·
   <a href="https://github.com/Joshva-Jashper">GitHub</a> ·
   <a href="https://leetcode.com/u/Joshva_Jashper/">LeetCode</a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Joshva-Jashper&style=for-the-badge&color=2EA3F2" alt="Profile views" />
 </div>
 
-<!-- Recruiter keywords: QA Automation, SDET, Software Testing, Test Automation, Playwright, pytest, Python, API Testing, UI Testing, CI/CD, GitHub Actions, Docker, Allure, Page Object Model -->
+<!-- Recruiter keywords: QA Automation, SDET, Software Testing, Test Automation, Playwright, pytest, Python, API Testing, UI Testing, CI/CD, GitHub Actions, Allure, Page Object Model -->
