@@ -19,9 +19,6 @@
 
 <img src="https://img.shields.io/badge/OPEN%20TO-QA%20AUTOMATION%20%7C%20SDET%20INTERNSHIPS-2EA3F2?style=for-the-badge" alt="Open to QA Automation and SDET internships" />
 
-<p><img src="assets/robot-automation.gif" width="180" alt="Animated friendly robot representing test automation" /></p>
-<sub>Robot animation by <a href="https://lottiefiles.com/free-animation/robot-automation-gif-lBqN7B0C6s">DiamondLion on LottieFiles</a> (Lottie Simple License).</sub>
-
 </div>
 
 ---
